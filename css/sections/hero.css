@@ -41,3 +41,43 @@
     color: #fff;
 }
 
+.hero-content{
+    flex : 1.22;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hero-content-info{
+    padding : 64px;
+    flex : 1;
+    display : flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.hero-content-info h1{
+    font-size: 80px;
+    font-weight: 600;
+    font-family: var(--playfair-display);
+    color: var(--secondary-color);
+}
+
+.hero-content-info p {
+    margin: 32px 0 0 32px;
+
+    font-family: var(--plus-jakarta-sans);
+    color: var(--secondary-color);
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.hero-content__buttons{
+    margin : 41px 0 0 41px;
+
+    display: flex;
+    flex-wrap: wrap;
+    gap: 36px;
+}
+
+
