@@ -50,4 +50,22 @@
     font-family: var(--plus-jakarta-sans);
     color: #fff;
     cursor: pointer;
+
+    transition: all .4s ease-in-out 0s;
+}
+
+.popular-foods__filter-btn img{
+    width: 36px;
+    height: 36px;
+    object-fit: contain;
+}
+
+.popular-foods__filter-btn.active{
+    background: #fff;
+    color: var(--primary-color);
+}
+
+.popular-foods__filter-btn:hover{
+    background: #fff;
+    color: var(--primary-color);
 }
