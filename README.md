@@ -3,7 +3,7 @@ Build with HTML and Css only .
 
 >Animation
 >
-Animate On Scroll JS : (link)[https://michalsnik.github.io/aos/]
+Animate On Scroll JS : [link](https://michalsnik.github.io/aos/)
 
 Preview :
 ![Sushi-Website-Image](https://arweave.net/Dtit8_vE2xqvwk76gE2JBmsyc7HBlUXXCtbJ2Lbj01A)
